@@ -1,0 +1,15 @@
+D:\Patika\InstanceField\bin\Debug\net7.0\InstanceField.exe
+D:\Patika\InstanceField\bin\Debug\net7.0\InstanceField.deps.json
+D:\Patika\InstanceField\bin\Debug\net7.0\InstanceField.runtimeconfig.json
+D:\Patika\InstanceField\bin\Debug\net7.0\InstanceField.dll
+D:\Patika\InstanceField\bin\Debug\net7.0\InstanceField.pdb
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.csproj.AssemblyReference.cache
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.AssemblyInfoInputs.cache
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.AssemblyInfo.cs
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.csproj.CoreCompileInputs.cache
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.dll
+D:\Patika\InstanceField\obj\Debug\net7.0\refint\InstanceField.dll
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.pdb
+D:\Patika\InstanceField\obj\Debug\net7.0\InstanceField.genruntimeconfig.cache
+D:\Patika\InstanceField\obj\Debug\net7.0\ref\InstanceField.dll
